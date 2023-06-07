@@ -1,6 +1,6 @@
 # SpringSuplier/End point for Demo
 
-1.http://localhost:8080/additems  :{
+1.http://localhost:8080/additems {
      "iid":22,
      "iname":"Apple",
       "qty":400,
@@ -8,7 +8,7 @@
 }
 2.http://localhost:8080/getItems  
 
-3.http://localhost:8080/updatItemsByID/22 :
+3.http://localhost:8080/updatItemsByID/22 
      {    
       "iID":22,
      "iname":"Apple",
