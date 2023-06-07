@@ -10,7 +10,7 @@
 
 3.http://localhost:8080/updatItemsByID/22 
      {    
-      "iID":22,
+      "iid":22,
      "iname":"Apple",
       "qty":200,
       "price":1200.56
